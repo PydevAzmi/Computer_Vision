@@ -1,8 +1,8 @@
 # Computer_Vision
 ### CV_1 :
--Reading/writing an image file.
--Converting between an image and raw bytes.
--Reading/writing a video file.
--Capturing camera frames.
--Displaying an image in a window.
--Displaying camera frames in a window.
+-Reading/writing an image file.<br>
+-Converting between an image and raw bytes.<br>
+-Reading/writing a video file.<br>
+-Capturing camera frames.<br>
+-Displaying an image in a window.<br>
+-Displaying camera frames in a window.<br>
