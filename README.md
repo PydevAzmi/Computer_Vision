@@ -4,5 +4,3 @@
 -Converting between an image and raw bytes.<br>
 -Reading/writing a video file.<br>
 -Capturing camera frames.<br>
--Displaying an image in a window.<br>
--Displaying camera frames in a window.<br>
